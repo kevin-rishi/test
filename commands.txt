@@ -1,0 +1,3 @@
+git init       // creates new git repo at current directory
+git add .      //adds every change to staging area to be committed
+git commit -m"your message here"
